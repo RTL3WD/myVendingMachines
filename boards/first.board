@@ -1,0 +1,104 @@
+{
+    "canvases": [
+        {
+            "x": 500,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const HomePage()",
+            "deps": [
+                "lib/pages/home_page.dart"
+            ]
+        },
+        {
+            "x": 973,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const DashboardScreen()",
+            "deps": [
+                "lib/pages/dashboard_screen.dart"
+            ]
+        },
+        {
+            "x": 1446,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const ProductsLibraryScreen()",
+            "deps": [
+                "lib/pages/products_library_screen.dart"
+            ]
+        },
+        {
+            "x": 1919,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const SalesReportsScreen()",
+            "deps": [
+                "lib/pages/sales_reports_screen.dart"
+            ]
+        },
+        {
+            "x": 2392,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const MoreOptionsScreen()",
+            "deps": [
+                "lib/pages/more_options_screen.dart"
+            ]
+        },
+        {
+            "x": 2865,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const MachineListScreen()",
+            "deps": [
+                "lib/pages/machine_list_screen.dart"
+            ]
+        },
+        {
+            "x": 3338,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const MachineDetailScreen()",
+            "deps": [
+                "lib/pages/machine_detail_screen.dart"
+            ]
+        },
+        {
+            "x": 3811,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const VisitWizardScreen()",
+            "deps": [
+                "lib/pages/visit_wizard_screen.dart"
+            ]
+        },
+        {
+            "x": 4284,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const RouteManagementScreen()",
+            "deps": [
+                "lib/pages/route_management_screen.dart"
+            ]
+        },
+        {
+            "x": 4757,
+            "y": 200,
+            "w": 393,
+            "h": 808,
+            "widget": "const CsvBackupScreen()",
+            "deps": [
+                "lib/pages/csv_backup_screen.dart"
+            ]
+        }
+    ]
+}

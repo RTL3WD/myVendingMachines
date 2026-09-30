@@ -1,0 +1,19 @@
+{
+    "version": "3.12.5",
+    "app": {
+        "name": "fleetflow",
+        "bundleId": "com.example.fleetflow78f103"
+    },
+    "main": [
+        {
+            "key": "supabase",
+            "statement": "await SupabaseService().initialize();",
+            "imports": [
+                "package:fleetflow/integrations/supabase_service.dart"
+            ]
+        }
+    ],
+    "experimental": {
+        "load_packages": true
+    }
+}
